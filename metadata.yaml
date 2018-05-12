@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7195
     wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25714#Mother-Hubbard-Her-Picture-Book---13-Containing-Mother-Hubbard-The-Three-Bears--amp--The-Absu_
 gutenberg_issued: '2008-06-07'
 gutenberg_type: Text
 identifiers:
